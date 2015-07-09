@@ -11,7 +11,7 @@ binding.remote_pry
 ruby_block "uh-oh" do
   block do
     ip = node['ipaddress']
-    binding.remote.pry
+    binding.remote_pry
   end
 end
 

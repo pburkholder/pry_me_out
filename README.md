@@ -2,3 +2,10 @@
 
 TODO: Enter the cookbook description here.
 
+When it blocks, 
+
+```
+kitchen login
+chef-pry
+```
+
